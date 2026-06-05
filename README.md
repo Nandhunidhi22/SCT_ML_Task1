@@ -36,6 +36,7 @@ House Prices Dataset - 535 records
 - Linear Regression works well for this dataset
 
 **Project Files**
+**Project Files**
 
 - House_Price_Prediction.ipynb
 - eda_analysis.png
@@ -47,12 +48,11 @@ House Prices Dataset - 535 records
 ![EDA Analysis](eda_analysis.png)
 
 ## Model Results
-![Uploading model_results.png…]()
 
-
+![Model Results](model_results.png)
 
 **Author**
 
-MADDIPUDI NANDHINI NANDHINI
+MADDIPUDI NANDHINI
 
 Machine Learning Intern @ SkillCraft Technology
