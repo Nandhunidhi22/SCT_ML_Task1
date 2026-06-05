@@ -47,8 +47,9 @@ House Prices Dataset - 535 records
 ![EDA Analysis](eda_analysis.png)
 
 ## Model Results
+![Uploading model_results.png…]()
 
-![Model Results](model_results.png)
+
 
 **Author**
 
